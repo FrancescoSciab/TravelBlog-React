@@ -1,0 +1,30 @@
+header{
+  background-color: #F55A5A;
+  color: #FFFFFF;
+}
+
+section{
+  margin: 40px;
+  display: flex;
+}
+
+.country--name{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+img{
+  width: 130px;
+  height: 200px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
+
